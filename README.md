@@ -11,7 +11,7 @@ I'm mainly backing this up here, since it's a linux bash script.
 I may eventually update to Python (meh?!)
 
 Steps:
-1. Run LetsCutSomeMovies.sh once to create folders
+1. Run LetsCutSomeMovies.sh once to create folders (Make executable if needed: 'chmod +x LetsCutSomeMovies.sh')
 2. Drop movie files into ./Movies
 3. Update ods file with file name, start and end times of desired portion of video to clip.
 4. Do not update Columns A, E, F
